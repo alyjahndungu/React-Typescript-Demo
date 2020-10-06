@@ -1,9 +1,4 @@
 
-
- * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
- */
-
 // ##############################
 // // // Function that converts from hex color to rgb color
 // // // Example: input = #9c27b0 => output = 156, 39, 176
