@@ -1,8 +1,4 @@
 
-// // // Example: input = 9c27b0 => output = 156, 39, 176
-// // // Example: input = #999 => output = 153, 153, 153
-// // // Example: input = 999 => output = 153, 153, 153
-// #############################
 const hexToRgb = input => {
   input = input + "";
   input = input.replace("#", "");
