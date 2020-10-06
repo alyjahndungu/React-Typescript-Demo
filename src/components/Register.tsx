@@ -26,7 +26,6 @@ function Copyright() {
   );
 }
 
-
 interface UserRegProps{
 
 }
@@ -37,7 +36,7 @@ interface UserRegState{
 
 export default class Register extends React.Component<UserRegProps, UserRegState> {
      constructor(props: UserRegProps) {
-         
+
     super(props);
     this.state = {isLoading:false};
 
