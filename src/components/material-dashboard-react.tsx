@@ -1,5 +1,4 @@
 
-// ##############################
 // // // Function that converts from hex color to rgb color
 // // // Example: input = #9c27b0 => output = 156, 39, 176
 // // // Example: input = 9c27b0 => output = 156, 39, 176
