@@ -2,7 +2,7 @@ import React from 'react';
 //import Login from './components/Login';
   import Register from './components/Register';
  import SideNav from './components/SideNav';
- import {BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+ import {BrowserRouter as Router, Route } from 'react-router-dom';
 import './App.css';
 
 function App() {
